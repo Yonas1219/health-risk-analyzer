@@ -134,15 +134,6 @@ npm start
   "message": "Slight concern, monitor symptoms."
 }
 ```
-
-## ⏱️ Time Spent
-
-~2 hours
-
-## 🧩 Technical Challenge
-
-One challenge faced was configuring CORS properly between the React frontend and FastAPI backend. The frontend makes requests from `localhost:3000` to `localhost:8000`, which required explicit CORS middleware configuration in FastAPI to allow cross-origin requests. Additionally, ensuring the frontend could communicate with the backend in Docker containers required careful network configuration in `docker-compose.yml`, including proper service dependencies and environment variables.
-
 ## 📸 Screenshot
 
 ![Health Risk Analyzer Screenshot](./image.png)
