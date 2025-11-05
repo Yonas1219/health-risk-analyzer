@@ -145,9 +145,7 @@ One challenge faced was configuring CORS properly between the React frontend and
 
 ## 📸 Screenshot
 
-![Health Risk Analyzer Screenshot](./screenshot.png)
-
-_Note: Screenshot placeholder - add a screenshot of the running application here_
+![Health Risk Analyzer Screenshot](./image.png)
 
 ## ⚠️ Disclaimer
 
