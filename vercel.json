@@ -1,6 +1,6 @@
 {
-  "buildCommand": "npm install && npm run build",
-  "installCommand": "npm install",
-  "outputDirectory": ".next",
+  "buildCommand": "cd TriageX/frontend && npm install && npm run build",
+  "installCommand": "cd TriageX/frontend && npm install",
+  "outputDirectory": "TriageX/frontend/.next",
   "framework": "nextjs"
 }
